@@ -1,5 +1,5 @@
 --------------------House Price Prediction using Machine Learning------------------
- ->Project Overview
+                         Project Overview
 
 This project predicts house prices using a Linear Regression machine learning model.
 The model is trained on a housing dataset containing features such as area, bedrooms, bathrooms, parking, and other amenities.
